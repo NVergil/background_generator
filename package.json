@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NVergil/background_generator/issues"
   },
-  "homepage": "https://github.com/NVergil/background_generator#readme"
+  "homepage": "https://github.com/NVergil/background_generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

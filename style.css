@@ -26,6 +26,16 @@ h3 {
 input {
  margin-inline: 15px;
 }
+.btn1 {
+    cursor: pointer;
+    border-radius: 20px;
+    padding: .5em 2em;
+}
+.btn2 {
+    cursor: pointer;
+    border-radius: 20px;
+    padding: .5em 2em;
+}
 
 /* ====================================================================
                                 ScrollBar MOD
